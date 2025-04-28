@@ -1,0 +1,5 @@
+nt1 = float(input("not 1 : "))
+nt2 = float(input("not 2 : "))
+nt3 = float(input("not 3 : "))
+tp = (nt1,nt2,nt3)
+print("ortalama =" + str((nt1 + nt2 +nt3)/3))
